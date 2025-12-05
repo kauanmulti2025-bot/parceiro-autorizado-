@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MultiOne - Parceria Autorizada</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0b1e39; color: #ffffff;
+            color: #1a1a1a;
+        }
+        header {
+            background: #0b1e39;
+            padding: 40px 20px;
+            text-align: center;
+            color: #fff;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 42px;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 950px;
+            margin: auto;
+        }
+        h2 {
+            color: #0b1e39;
+        }
+        .card {
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            margin-bottom: 30px;
+        }
+        .img-banner {
+            width: 100%;
+            border-radius: 10px;
+            margin: 25px 0;
+        }
+        footer {
+            background: #0b1e39;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>MULTIONE</h1>
+    <p>Soluções Corporativas · Omnichannel · Inteligência Artificial</p>
+</header>
+
+<section>
+    <div class="card">
+        <h2>Sobre a MultiOne</h2>
+        <p>A MultiOne é uma empresa de tecnologia que desenvolve soluções corporativas de alta performance, incluindo Plataforma Omnichannel, CRM, automações, agentes de IA e integrações avançadas. Toda a tecnologia é proprietária, oferecendo flexibilidade, autonomia e escalabilidade para operações de todos os portes.</p>
+        <img class="img-banner" src="https://multione.digital/wp-content/uploads/2024/06/mockup-1024x576.png" alt="Imagem institucional MultiOne" />
+    </div>
+
+    <div class="card">
+        <h2>Modelo de Parceria</h2>
+        <p>A parceria da MultiOne foi criada para unir força comercial e estrutura operacional, permitindo que o Parceiro Autorizado foque totalmente em prospectar, negociar e fechar vendas, enquanto a MultiOne garante toda a infraestrutura empresarial.</p>
+        <p><strong>O parceiro é responsável por:</strong><br>
+            • Prospecção<br>
+            • Recepção de leads<br>
+            • Negociação<br>
+            • Fechamento de vendas
+        </p>
+        <p><strong>A MultiOne é responsável pela estrutura:</strong><br>
+            • Suporte técnico<br>
+            • Marketing<br>
+            • Implantação<br>
+            • Administrativo<br>
+            • Financeiro
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Benefícios do Parceiro Autorizado</h2>
+        <ul>
+            <li>30% do faturamento bruto da base ativa</li>
+            <li>10% adicionais convertidos em marketing segmentado para o parceiro</li>
+            <li>50% da taxa de ativação por novo cliente</li>
+            <li>Cláusula de recompra: em caso de rescisão, a MultiOne compra a base do parceiro por 3× o valor que ele recebe mensalmente</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Por que se tornar Parceiro MultiOne?</h2>
+        <p>O modelo garante sustentabilidade, previsibilidade e escalabilidade. O parceiro atua com foco comercial enquanto desfruta de uma operação completa, pronta e altamente profissional. A MultiOne oferece tecnologia proprietária e suporte de ponta, permitindo que o parceiro amplie sua carteira sem precisar investir em estrutura.</p>
+        <img class="img-banner" src="https://multione.digital/wp-content/uploads/2024/06/Multione-Mockup-1-1024x576.png" alt="Tecnologia omnichannel MultiOne" />
+    </div>
+    <div class="card">
+        <h2>Benefícios da Parceria</h2>
+        <p><strong>Modelo Simplificado</strong><br>Estruture sua atuação comercial como Parceiro Autorizado sem burocracia. Receba comissões recorrentes enquanto a MultiOne provê tecnologia e operação.</p>
+        <p><strong>Tecnologia Própria</strong><br>Plataforma Omnichannel, CRM e Agentes de IA treináveis — tudo em ambiente próprio, com escalabilidade e personalização por cliente.</p>
+        <p><strong>Suporte e Treinamento</strong><br>Capacitação comercial, material de vendas e suporte técnico contínuo para reduzir curva de adoção e acelerar resultados.</p>
+    </div>
+
+    <div class="card">
+        <h2>Principais Soluções</h2>
+        <p><strong>Plataforma Omnichannel</strong><br>Centralize WhatsApp, telefone, e-mail e chat em uma única interface com histórico e automações.</p>
+        <p><strong>Agentes de IA</strong><br>IA para triagem, atendimento receptivo e pré-qualificação de leads com escalabilidade e treinamento contínuo.</p>
+        <p><strong>CRM Integrado</strong><br>Controle pipeline, metas e comissionamento com relatórios e integração com processos comerciais.</p>
+    </div>
+
+    <div class="card">
+        <h2>Onboarding (Resumo)</h2>
+        <p><strong>Assinatura do Contrato</strong><br>Reunião para esclarecimentos e assinatura digital do contrato.</p>
+        <p><strong>Implantação das Tecnologias MultiOne</strong><br>Liberação de acessos à Plataforma, CRM e demais ferramentas disponíveis ao parceiro.</p>
+        <p><strong>Treinamentos</strong><br>Acompanhamento técnico, comercial e operacional para garantir domínio total das ferramentas e processos.</p>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2025 MultiOne Digital — Todos os direitos reservados.</p>
+    <p style="margin-top:10px; font-size:14px;">Contato: comercial@multione.digital · WhatsApp: (11) 99999-9999</p>
+</footer>
+
+</body>
+</html>
